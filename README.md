@@ -10,7 +10,9 @@ Build tools 24.0.2
 SDK Version 24
 
 ## Screenshots
-
+![screenshot of app with a correct user input](https://github.com/lostatseajoshua/TipCalculator/blob/master/screenshot0.png)
+![screenshot of app with an incorrect lower user input](https://github.com/lostatseajoshua/TipCalculator/blob/master/screenshot1.png)
+![screenshot of app with an incorrect higher user input](https://github.com/lostatseajoshua/TipCalculator/blob/master/screenshot2.png)
 
 ## Contributors
 Joshua Alvarado - [Twitter](https://www.twitter.com/alvaradojoshua0) - [Website](http://www.strictlyswift.com)
